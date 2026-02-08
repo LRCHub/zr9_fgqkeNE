@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Maybe",
+  "base_artist": "Knoll Music",
+  "createdAt": "2026-02-08T12:00:31.843067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maybe It Was Memphis",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/01_Maybe_It_Was_Memphis_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maybe It Was Memphis",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/02_Maybe_It_Was_Memphis_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Maybe It Was Memphis (Album Version)",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/03_Maybe_It_Was_Memphis_(Album_Version)_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Maybe We Should Just Sleep On It",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/04_Maybe_We_Should_Just_Sleep_On_It_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Maybe We Will",
+      "artist": "Noah Schnacky",
+      "has_synced": true,
+      "path": "select/05_Maybe_We_Will_Noah_Schnacky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "More Than a Maybe",
+      "artist": "JunaNJoey",
+      "has_synced": true,
+      "path": "select/06_More_Than_a_Maybe_JunaNJoey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "More Than A Maybe",
+      "artist": "Juna N Joey",
+      "has_synced": true,
+      "path": "select/07_More_Than_A_Maybe_Juna_N_Joey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maybe Some Other Time",
+      "artist": "王若琳",
+      "has_synced": false,
+      "path": "select/08_Maybe_Some_Other_Time_王若琳.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Maybe Some Other Time (中文版)",
+      "artist": "王若琳",
+      "has_synced": false,
+      "path": "select/09_Maybe_Some_Other_Time_(中文版)_王若琳.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Maybe",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/10_Baby_Maybe_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Maybe After He's Gone",
+      "artist": "The Zombies",
+      "has_synced": true,
+      "path": "select/11_Maybe_After_He's_Gone_The_Zombies.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Maybe I Will, Maybe I Won't",
+      "artist": "The Young Veins",
+      "has_synced": false,
+      "path": "select/12_Maybe_I_Will,_Maybe_I_Won't_The_Young_Veins.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Maybe The People Would Be The Times Or Between Clark And Hilldale",
+      "artist": "Love",
+      "has_synced": true,
+      "path": "select/13_Maybe_The_People_Would_Be_The_Times_Or_Between_Clark_And_Hilldale_Love.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Maybe Tonight",
+      "artist": "Lovelock",
+      "has_synced": false,
+      "path": "select/14_Maybe_Tonight_Lovelock.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Maybe Partying Will Help",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/15_Maybe_Partying_Will_Help_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Maybe So, Maybe No",
+      "artist": "Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/16_Maybe_So,_Maybe_No_Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maybe",
+      "artist": "Knoll Music",
+      "has_synced": false,
+      "path": "select/pl_01_Maybe_Knoll_Music.txt"
+    }
+  ]
+}
